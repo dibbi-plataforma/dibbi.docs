@@ -46,8 +46,8 @@ module.exports = {
         link: 'https://dibbi.com.br/'
       },
       {
-	text: 'Blog',
-	link: 'https://dibbi.com.br/blog'
+        text: 'Blog',
+        link: 'https://dibbi.com.br/blog'
       }
     ],
     sidebar: {
