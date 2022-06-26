@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "version": "0.0.1",
+  "description": "Dibbi Docs",
+  "main": "index.js",
+  "authors": {
+    "name": "Dibbi",
+    "email": "devops@dibbi.com.br"
+  },
+  "repository": "https://github.com/dibbi-plataforma/docs.dibbi/docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
