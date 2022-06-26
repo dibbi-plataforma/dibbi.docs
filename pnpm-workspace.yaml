@@ -1,6 +1,0 @@
-packages:
-  - docs
-  - packages/@vuepress/*
-  - packages/vuepress
-  - packages/vuepress-vite
-  - packages/vuepress-webpack
