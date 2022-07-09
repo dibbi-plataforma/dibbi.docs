@@ -1,7 +1,6 @@
 ---
 home: true
-#heroImage: https://dibbi.com.br/images/Imagens/favicon.png
-heroImage: ![logo](~@source/images/logo.jpg)
+heroImage: https://dibbi.com.br/images/Imagens/favicon.png
 tagline: A documentação da sua plataforma Dibbi.
 actionText: Começar →
 actionLink: /guide/
