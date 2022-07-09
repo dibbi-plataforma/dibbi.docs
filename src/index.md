@@ -1,14 +1,15 @@
 ---
 home: true
-heroImage: https://dibbi.com.br/images/Imagens/favicon.png
+#heroImage: https://dibbi.com.br/images/Imagens/favicon.png
+heroImage: logo.jpg
 tagline: A documentação da sua plataforma Dibbi.
 actionText: Começar →
 actionLink: /guide/
 features:
 - title: Links úteis
   details:
-    actionText: Começar →
-    actionLink: /guide/
+    - actionText: Começar →
+    - actionLink: /guide/
 # (https://dibbi.com.br)
 # details: [Suporte](https://dibbi.com.br "Link para Suporte")
 #  [Suporte](https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi)
