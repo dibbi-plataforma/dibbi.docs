@@ -9,14 +9,14 @@ Certo, mas o que ele tem a ver com a ferramenta “novidades” da Dibbi?
 
 **Reposta:** Só tudo!
 
-Essa ferramenta serve para informar sobre tudo que tem novo na Dibbi, assim como Vídeo Show fazia com os programas da emissora.<br><br>
+Essa ferramenta serve para informar sobre tudo que tem novo na Dibbi, assim como Vídeo Show fazia com os programas da emissora.
 
 
 Qualquer dúvida, estaremos aqui!
 
 Abraços
 
-Equipe Dibbi :heart: <br><br>
+Equipe Dibbi :heart:
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 

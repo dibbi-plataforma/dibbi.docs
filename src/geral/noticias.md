@@ -4,14 +4,13 @@ Olá, espero que esteja bem! :smiley:
 
 Lembra da brincadeira do telefone sem fio? Aquela em que a mensagem chegava no final da fila toda distorcida.
 
-Com essa ferramenta isso não acontecerá, pois nesse espaço ficarão disponíveis as informações que a coordenação pedagógica deseja comunicar aos professores, como por exemplo, o início do planejamento, os cronogramas de aulas e as datas dos eventos escolares. <br><br>
-
+Com essa ferramenta isso não acontecerá, pois nesse espaço ficarão disponíveis as informações que a coordenação pedagógica deseja comunicar aos professores, como por exemplo, o início do planejamento, os cronogramas de aulas e as datas dos eventos escolares.
 
 Qualquer dúvida, estaremos aqui!
 
 Abraços
 
-Equipe Dibbi :heart: <br><br>
+Equipe Dibbi :heart:
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 

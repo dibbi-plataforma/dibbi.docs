@@ -17,7 +17,7 @@ Qualquer dúvida, estaremos aqui!
 
 Abraços
 
-Equipe Dibbi :heart: <br><br>
+Equipe Dibbi :heart:
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 

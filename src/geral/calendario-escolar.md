@@ -6,14 +6,13 @@ A gente sabe que sua escola tem muitas programações durante o ano. Na Dibbi, v
 
 Aqui você ficará por dentro de todos os compromissos, podendo visualizar os eventos por mês, semana ou por dia. 
 
-Você visualizará apenas o calendário correspondente ao seu nível de ensino, e o calendário global.<br><br>
-
+Você visualizará apenas o calendário correspondente ao seu nível de ensino, e o calendário global.
 
 Qualquer dúvida, estaremos aqui!
 
 Abraços
 
-Equipe Dibbi :heart: <br><br>
+Equipe Dibbi :heart:
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 

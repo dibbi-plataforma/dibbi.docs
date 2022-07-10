@@ -79,7 +79,8 @@ module.exports = {
             '',
             'dashboard',
             'noticias',
-            'calendario',
+            'calendario-escolar',
+            'minhas-turmas',
             'novidades',
           ]
         }

@@ -10,7 +10,7 @@ Somos uma plataforma de gerenciamento do setor pedagógico da escola. Nós temos
 
 1. [Dashboard](/dashboard.md)
 2. [Notícias](/noticias.md)
-3. [Calendário](/calendario.md)
+3. [Calendário Escolar](/calendario-escolar.md)
 4. [Minhas turmas](/minhasturmas.md)
 5. [Novidades](/novidades.md)
 
