@@ -1,6 +1,7 @@
 # Cadastro de Matérias 
 
-![Teacher](https://user-images.githubusercontent.com/94073830/178129618-3b766d04-c89b-4b89-8156-5b00579d30ea.gif)
+![Teacher (1)](https://user-images.githubusercontent.com/94073830/178129653-2f074d3e-b0a7-4928-b773-7c6c275f2821.gif)
+
 
 Olá, espero que esteja bem! :smiley:
 
