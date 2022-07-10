@@ -21,6 +21,18 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
+  markdown: {
+    lineNumbers: false,
+    config: _ => {
+      _.use(require('markdown-it-html-embed'), {
+        html5embed: {
+          useImageSyntax: true,
+          useLinkSyntax: false
+        }
+      })
+    }
+  },
+
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
@@ -82,6 +94,7 @@ module.exports = {
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
+
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
