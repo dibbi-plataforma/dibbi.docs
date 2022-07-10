@@ -87,6 +87,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'cadastro',
             'cadastro-materias',
             'cadastro-turmas',
             'cadastro-usuarios',
