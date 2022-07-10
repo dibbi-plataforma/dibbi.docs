@@ -91,7 +91,20 @@ module.exports = {
       ],
       '/coordenador/': [
         {
-          title: 'Coordenador',
+          title: 'Coordenador 1',
+          collapsable: false,
+          children: [
+            '',
+            'cadastro-materias',
+            'cadastro-turmas',
+            'cadastro-usuarios',
+            'cadastro-itensdoplano',
+            'cadastro-noticias',
+            'cadastro-evento',
+          ]
+        },
+        {
+          title: 'Coordenador 2',
           collapsable: false,
           children: [
             '',
