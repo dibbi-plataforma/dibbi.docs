@@ -6,9 +6,9 @@ O cadastro de matérias permite que você registre na plataforma todas as discip
  
 Veja como é fácil cadastrar uma matéria, siga os passos:
 
-1. Clique no botão adicionar;<br>
-2. Na tela seguinte digite o nome da matéria desejada;<br>
-3. Por último, clique em ‘Salvar’. Caso queira adicionar outra matéria, clique em salvar e novo.
+1. Clique no botão adicionar.
+2. Na tela seguinte digite o nome da matéria desejada.
+3. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.
 
 ::: warning
 O status da matéria, por padrão, é ativo.
