@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## Como adicionar um plano de aula?
 
 Olá, espero que esteja bem! :smiley:
