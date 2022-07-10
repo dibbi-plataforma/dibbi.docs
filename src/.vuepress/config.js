@@ -48,6 +48,18 @@ module.exports = {
       {
         text: 'Blog',
         link: 'https://dibbi.com.br/blog'
+      },
+      {
+        text: 'Instagram',
+        link: 'https://www.instagram.com/dibbi.plataforma/'
+      },
+      {
+        text: 'Linkedin',
+        link: 'https://www.linkedin.com/company/dibbi-plataforma'
+      },
+      {
+        text: 'Facebook',
+        link: 'https://www.facebook.com/dibbi.plataforma'
       }
     ],
     sidebar: {
