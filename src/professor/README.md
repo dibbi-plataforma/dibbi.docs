@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Professor
+
 
 ## Como adicionar um plano de aula?
 
@@ -17,7 +17,7 @@ Para adicionar um plano de aula, siga os passos:
 3. Preencha os campos que foram previamente configurados pela coordenação.
 4. Em seguida, clique em **Salvar**. Caso queira adicionar outro **Plano de Aula**, clique em **Salvar e Novo**.
 
-::: ATENÇÃO
+::: warning
 Para não ter nenhuma surpresa, escreva o plano e salve periodicamente.
 :::
 
