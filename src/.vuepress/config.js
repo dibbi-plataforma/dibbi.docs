@@ -77,8 +77,10 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'editar-perfil',
-            'editar-senha',
+            'dashboard',
+            'noticias',
+            'calendario',
+            'novidades',
           ]
         }
       ],

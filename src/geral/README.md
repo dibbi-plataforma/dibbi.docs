@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Geral
 
 ## Conhecendo a Dibbi
