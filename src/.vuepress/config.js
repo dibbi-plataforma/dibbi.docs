@@ -86,7 +86,7 @@ module.exports = {
       ],
       '/professor/': [
         {
-          title: 'Cadastro',
+          title: 'Professor',
           collapsable: false,
           children: [
             '',
