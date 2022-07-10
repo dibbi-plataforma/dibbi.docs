@@ -1,6 +1,6 @@
 # Cadastro de Matérias 
 
-Olá, espero que esteja bem! :smile:
+Olá, espero que esteja bem! :smiley:
 
 O cadastro de matérias permite que você registre na plataforma todas as disciplinas escolares e as turmas na qual elas pertencem. 
  
