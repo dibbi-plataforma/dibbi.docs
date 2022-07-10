@@ -13,7 +13,7 @@ Veja como é fácil cadastrar uma matéria, siga os passos:
 ::: warning
 O status da matéria, por padrão, é ativo.
 :::
-
+<br>
 Vídeo: [Cadastro de Matérias](https://user-images.githubusercontent.com/94073830/177825941-6909fd74-7807-49d9-a72c-07b180fea28c.mp4)
 
 Qualquer dúvida, estaremos aqui!
