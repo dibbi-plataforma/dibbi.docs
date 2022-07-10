@@ -8,12 +8,12 @@ Nossa missão é levar evolução, governança, gestão e eficiência para a ár
 
 Somos uma plataforma de gerenciamento do setor pedagógico da escola. Nós temos várias funcionalidades para te ajudar, se você quer conhecer mais, clique em uma opção abaixo.
 
-1. [Dashboard](/dashboard.md)
-2. [Tela de Login](/tela-de-login.md)
-3. [Notícias](/noticias.md)
-4. [Calendário Escolar](/calendario-escolar.md)
-5. [Planos de Aula](/planos-de-aula.md)
-6. [Novidades](/novidades.md)
+1. [Dashboard](/geral/dashboard.md)
+2. [Tela de Login](/geral/tela-de-login.md)
+3. [Notícias](/geral/noticias.md)
+4. [Calendário Escolar](/geral/calendario-escolar.md)
+5. [Planos de Aula](/geral/planos-de-aula.md)
+6. [Novidades](/geral/novidades.md)
 
 Qualquer dúvida, estaremos aqui!
 
