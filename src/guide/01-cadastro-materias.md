@@ -9,11 +9,11 @@ Veja como é fácil cadastrar uma matéria, siga os passos:
 1. Clique no botão **Adicionar**.
 2. Na tela seguinte digite o **Nome da Matéria** desejada.
 3. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.
-
+<br><br>
 ::: warning
 O status da matéria, por padrão, é ativo.
 :::
-<br>
+<br><br>
 Vídeo: [Cadastro de Matérias](https://user-images.githubusercontent.com/94073830/177825941-6909fd74-7807-49d9-a72c-07b180fea28c.mp4)
 
 Qualquer dúvida, estaremos aqui!
