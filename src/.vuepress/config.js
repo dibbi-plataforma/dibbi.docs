@@ -89,7 +89,7 @@ module.exports = {
           title: 'Professor',
           collapsable: false,
           children: [
-            '',
+            '../geral',
           ]
         }
       ],
