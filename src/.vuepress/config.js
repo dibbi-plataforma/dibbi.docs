@@ -114,12 +114,6 @@ module.exports = {
             'cadastro-turmas',
             'cadastro-usuarios',
             'cadastro-itensdoplano',
-          ]
-        },
-        {
-          title: 'Coordenador 2',
-          collapsable: false,
-          children: [
             'cadastro-noticias',
             'cadastro-evento',
           ]
