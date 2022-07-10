@@ -2,6 +2,8 @@
 sidebar: auto
 ---
 
+# Professor
+
 ## Como adicionar um plano de aula?
 
 Olá, espero que esteja bem! :smiley:
