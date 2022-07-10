@@ -22,24 +22,6 @@ module.exports = {
   ],
 
   /**
-   * Embedded HTML5 Video from Markdown Image Link with Video Suffixes
-   *
-   * ref：https://github.com/vuejs/vuepress/issues/870
-   
-
-  markdown: {
-    lineNumbers: false,
-    config: _ => {
-      _.use(require('markdown-it-html5-embed'), {
-        html5embed: {
-          useImageSyntax: true,
-          useLinkSyntax: false
-        }
-      })
-    }
-  },*/
-
-  /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
@@ -98,24 +80,18 @@ module.exports = {
           ]
         }
       ],
-      '/coordenador/': [
-        {
-          title: 'Coordenador',
-          collapsable: false,
-          children: [
-            '',
-            'cadastro-materias',
-            'cadastro-turmas',
-            'cadastro-usuarios',
-            'cadastro-itensdoplano',
-            'cadastro-noticias',
-            'cadastro-evento',
-          ]
-        }
-      ],
       '/professor/': [
         {
           title: 'Professor',
+          collapsable: false,
+          children: [
+            '',
+          ]
+        }
+      ],
+      '/coordenador/': [
+        {
+          title: 'Coordenador',
           collapsable: false,
           children: [
             '',
@@ -136,9 +112,7 @@ module.exports = {
    */
 
   plugins: [
-    ['@vuepress/plugin-back-to-top'],
-    ['@vuepress/plugin-medium-zoom'],
-    ['@vuepress/active-header-links'],
-    ['@vuepress/markdown'],
+    '@vuepress/plugin-back-to-top',
+    '@vuepress/plugin-medium-zoom',
   ]
 }

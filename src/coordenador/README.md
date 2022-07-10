@@ -1,4 +1,4 @@
-# Introdução
+# Coordenador
 
 A **Dibbi** é uma plataforma com ferramentas para **GESTÃO** do setor **PEDAGÓGICO** da sua escola.
 
