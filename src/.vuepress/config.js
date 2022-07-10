@@ -78,10 +78,19 @@ module.exports = {
           children: [
             '',
             'dashboard',
+            'tela-de-login',
             'noticias',
             'calendario-escolar',
             'planos-de-aula',
             'novidades',
+          ]
+        },
+        {
+          title: 'Editar',
+          collapsable: false,
+          children: [
+            'editar-perfil',
+            'editar-senha',
           ]
         }
       ],
