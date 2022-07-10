@@ -1,4 +1,4 @@
-## Cadastro de Usuários
+# Cadastro de Usuários
 ### Olá pessoal, beleza? <br><br>
 
 Para que sua equipe possa utilizar a Dibbi, é necessário que todos estejam devidamente cadastrados na plataforma. Nessa tela você gerencia os usuários da sua escola. 

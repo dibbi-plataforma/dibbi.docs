@@ -1,4 +1,4 @@
-## Cadastro de Matérias 
+# Cadastro de Matérias 
 ### Olá pessoal, beleza? <br><br>
 
 O cadastro de matérias permite que você registre na plataforma todas as disciplinas escolares e as turmas na qual elas pertencem. 
