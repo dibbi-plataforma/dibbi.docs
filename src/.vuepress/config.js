@@ -57,7 +57,10 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'cadastro',
+            '01-cadastro-materias',
+            '02-cadastro-turmas',
+            '03-cadastro-usuarios',
+            '04-cadastro-itensdoplano',
           ]
         }
       ],
