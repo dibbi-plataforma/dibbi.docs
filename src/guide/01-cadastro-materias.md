@@ -16,8 +16,8 @@ O status da matéria, por padrão, é ativo.
 
 Vídeo:
 
-[LOCAL](/cadastro-materias.mp4)
-![REPO](https://user-images.githubusercontent.com/94073830/177825941-6909fd74-7807-49d9-a72c-07b180fea28c.mp4)
+![LOCAL](/cadastro-materias.mp4)
+[REPO](https://user-images.githubusercontent.com/94073830/177825941-6909fd74-7807-49d9-a72c-07b180fea28c.mp4)
 
 <br><br>Qualquer dúvida, estaremos aqui!
 
