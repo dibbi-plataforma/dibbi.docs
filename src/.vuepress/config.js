@@ -87,10 +87,11 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            '01-cadastro-materias',
-            '02-cadastro-turmas',
-            '03-cadastro-usuarios',
-            '04-cadastro-itensdoplano',
+            'cadastro-materias',
+            'cadastro-turmas',
+            'cadastro-usuarios',
+            'cadastro-itensdoplano',
+            'noticias',
           ]
         }
       ],

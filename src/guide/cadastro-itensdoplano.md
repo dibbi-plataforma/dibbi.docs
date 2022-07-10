@@ -9,6 +9,7 @@ Esse é o momento mais importante na configuração da Dibbi. Aqui você vai rea
     - **Exemplo**: Desenvolvimento, conteúdo, objetivo etc.;
 3. Utilize o campo **Descrição**, caso precise fazer uma orientação sobre o que se trata o item que você está criando.
 4. No campo **Nível de Ensino**, selecione para qual etapa esse item será exibido.
+5. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.
 
 ::: warning
 Depois que é inserido um plano de aula na plataforma, não é possível mudar o nome do item do plano.
