@@ -91,7 +91,6 @@ module.exports = {
             'cadastro-turmas',
             'cadastro-usuarios',
             'cadastro-itensdoplano',
-            'cadastro-noticias',
           ]
         }
       ],
