@@ -58,14 +58,14 @@ module.exports = {
       {
         text: 'Dibbi',
         link: 'https://dibbi.com.br/'
-      }/**,
-      {
-        text: 'Config',
-        link: '/config/'
       },
       {
         text: 'Blog',
         link: 'https://dibbi.com.br/blog'
+      }/**,
+      {
+        text: 'Config',
+        link: '/config/'
       },
       {
         text: 'Instagram',
