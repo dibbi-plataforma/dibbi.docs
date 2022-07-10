@@ -1,4 +1,4 @@
-## Dashboard
+# Dashboard
 
 Olá, espero que esteja bem! :smiley:
 

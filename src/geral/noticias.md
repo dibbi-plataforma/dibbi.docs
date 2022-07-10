@@ -1,4 +1,4 @@
-## Notícias 
+# Notícias 
 
 Olá, espero que esteja bem! :smiley:
 

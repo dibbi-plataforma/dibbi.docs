@@ -1,4 +1,4 @@
-## Novidades
+# Novidades
 
 Olá, espero que esteja bem! :smiley:
 
