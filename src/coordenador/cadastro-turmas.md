@@ -1,7 +1,5 @@
 # Cadastro de Turmas
 
-![200](https://user-images.githubusercontent.com/94073830/178129707-9761a1f2-f52e-47a2-b7a3-228383ce8fd9.gif)
-
 Olá, espero que esteja bem! :smiley:
 
 Aqui na Dibbi você pode criar e editar suas turmas para o ano letivo. Nessa tela você gerencia as classes da sua escola.
