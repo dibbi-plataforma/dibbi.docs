@@ -1,6 +1,6 @@
 # Cadastro de Usuários
 
-### Olá pessoal, beleza? <br><br>
+Olá pessoal, beleza?
 
 Para que sua equipe possa utilizar a Dibbi, é necessário que todos estejam devidamente cadastrados na plataforma. Nessa tela você gerencia os usuários da sua escola. 
 
@@ -9,8 +9,8 @@ Para realizar o cadastro dessas informações, siga os passos:
 1. Clique no botão adicionar; <br>
 2. Escreva o nome, email e telefone do usuário. Se possível insira uma foto;<br>
 3. Em permissões, escolha o tipo de usuário. Caso seja:<br>
-    1. **Coordenador:** Clique no nível de ensino.<br>
-    2. **Professor:** Expanda o nível de ensino desejado, selecione a turma e escolha a matéria que o professor irá ensinar.<br>
+    - **Coordenador:** Clique no nível de ensino.<br>
+    - **Professor:** Expanda o nível de ensino desejado, selecione a turma e escolha a matéria que o professor irá ensinar.<br>
 4. Por último, clique em ‘Salvar’. Caso queira adicionar outro usuário, clique em Salvar e Novo.
 
 ::: warning

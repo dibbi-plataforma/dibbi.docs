@@ -1,6 +1,6 @@
 # Cadastro de Turmas
 
-### Olá pessoal, beleza? <br><br>
+Olá pessoal, beleza?
 
 Aqui na Dibbi você pode criar e editar suas turmas para o ano letivo. Nessa tela você gerencia as classes da sua escola.
 
