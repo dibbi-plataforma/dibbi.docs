@@ -1,19 +1,16 @@
-## Tela de login
+## Dashboard
 
 Olá, espero que esteja bem! :smiley:
 
-O acesso à plataforma é exclusivo para os usuários internos da escola.
-Todos acessam via web, através do endereço:
+Após acessar a plataforma, a primeira visualização que você terá é do Dashboard. Por aqui é possível ver algumas métricas, vamos conhecer?
 
-Clique aqui para acessar a Dibbi
+![alt text](https://orendevelopers.com.br/basedibbi/dashboard.gif)
 
-O endereço possui a seguinte tela:
+**Estatísticas** <br>Aqui você consegue ver o total de professores e coordenadores, bem como saber quantas folhas sua escola economizou.
 
-![alt text](https://orendevelopers.com.br/basedibbi/teladelogin.png)
+**Professores** <br>Aqui é possível visualizar as seguintes informações: a última data de acesso de todos os docentes, quando eles inseriram o último plano de aula e quantos planos foram feitos no total.
 
-Insira seu e-mail e senha cadastrados no sistema pelo responsável, geralmente é o diretor(a) ou coordenador(a) pedagógico.
-
- :warning: Ahhh, lembrando que o e-mail deve ter sempre os caracteres em minúsculo e sem espaços, beleza?<br><br>
+**Planos de aula corrigidos** <br>Mais abaixo, no lado direito da tela, é possível visualizar a porcentagem de planos corrigidos pelo coordenador, de acordo com o nível de ensino.<br><br>
 
 
 Qualquer dúvida, estaremos aqui!
@@ -21,6 +18,7 @@ Qualquer dúvida, estaremos aqui!
 Abraços
 
 Equipe Dibbi :heart: <br><br>
+
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 
 [![alt text][3.1]][3]
@@ -38,3 +36,4 @@ Equipe Dibbi :heart: <br><br>
 [3]: https://dibbi.com.br/
 [4]: https://www.linkedin.com/company/dibbi-plataforma
 [5]: https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi
+

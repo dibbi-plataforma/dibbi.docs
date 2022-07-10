@@ -1,19 +1,10 @@
-## Tela de login
+## Notícias 
 
 Olá, espero que esteja bem! :smiley:
 
-O acesso à plataforma é exclusivo para os usuários internos da escola.
-Todos acessam via web, através do endereço:
+Lembra da brincadeira do telefone sem fio? Aquela em que a mensagem chegava no final da fila toda distorcida.
 
-Clique aqui para acessar a Dibbi
-
-O endereço possui a seguinte tela:
-
-![alt text](https://orendevelopers.com.br/basedibbi/teladelogin.png)
-
-Insira seu e-mail e senha cadastrados no sistema pelo responsável, geralmente é o diretor(a) ou coordenador(a) pedagógico.
-
- :warning: Ahhh, lembrando que o e-mail deve ter sempre os caracteres em minúsculo e sem espaços, beleza?<br><br>
+Com essa ferramenta isso não acontecerá, pois nesse espaço ficarão disponíveis as informações que a coordenação pedagógica deseja comunicar aos professores, como por exemplo, o início do planejamento, os cronogramas de aulas e as datas dos eventos escolares. <br><br>
 
 
 Qualquer dúvida, estaremos aqui!
@@ -21,6 +12,7 @@ Qualquer dúvida, estaremos aqui!
 Abraços
 
 Equipe Dibbi :heart: <br><br>
+
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 
 [![alt text][3.1]][3]

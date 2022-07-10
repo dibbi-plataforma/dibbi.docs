@@ -10,15 +10,15 @@ Seja bem-vindo(a) à **Dibbi**!
 
 Seu plano de aula online.
 
-Nossa missão é levar evolução, governança, gestão e eficiência para a área pedagógica, utilizando as ferramentas da nossa plataforma na construção de um ecossistema, que possa ajudar os docentes na evolução das atividades do seu dia a dia.
+Nossa missão é levar evolução, governança, gestão e eficiência para a área pedagógica, utilizando as ferramentas da nossa plataforma na construção de um ecossistema que possa ajudar os docentes na evolução das atividades do seu dia a dia.
 
 Somos uma plataforma de gerenciamento do setor pedagógico da escola. Nós temos várias funcionalidades para te ajudar, se você quer conhecer mais, clique em uma opção abaixo.
 
-1. [Dashboard](/ferramentas/dashboard.md)
-2. [Notícias](/ferramentas/noticias.md)
-3. [Calendário](/ferramentas/calendario.md)
-4. [Minhas turmas](/ferramentas/minhasturmas.md)
-5. [Novidades](/ferramentas/novidades.md)
+1. [Dashboard](/dashboard.md)
+2. [Notícias](/noticias.md)
+3. [Calendário](/calendario.md)
+4. [Minhas turmas](/minhasturmas.md)
+5. [Novidades](/novidades.md)
 
 Qualquer dúvida, estaremos aqui!
 

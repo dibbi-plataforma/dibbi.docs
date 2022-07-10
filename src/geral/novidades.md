@@ -1,19 +1,15 @@
-## Tela de login
+## Novidades
 
 Olá, espero que esteja bem! :smiley:
 
-O acesso à plataforma é exclusivo para os usuários internos da escola.
-Todos acessam via web, através do endereço:
+Se você tem mais de 30 anos, provavelmente se recorda de um programa de curiosidades que era transmitido na TV, à tarde, depois do almoço. Lembrou né? <br>
+Ele mesmo, o Vídeo Show. Este programa falava basicamente da programação, como novelas, curiosidades, bastidores e outras coisas mais.
 
-Clique aqui para acessar a Dibbi
+Certo, mas o que ele tem a ver com a ferramenta “novidades” da Dibbi? 
 
-O endereço possui a seguinte tela:
+**Reposta:** Só tudo!
 
-![alt text](https://orendevelopers.com.br/basedibbi/teladelogin.png)
-
-Insira seu e-mail e senha cadastrados no sistema pelo responsável, geralmente é o diretor(a) ou coordenador(a) pedagógico.
-
- :warning: Ahhh, lembrando que o e-mail deve ter sempre os caracteres em minúsculo e sem espaços, beleza?<br><br>
+Essa ferramenta serve para informar sobre tudo que tem novo na Dibbi, assim como Vídeo Show fazia com os programas da emissora.<br><br>
 
 
 Qualquer dúvida, estaremos aqui!
@@ -21,6 +17,7 @@ Qualquer dúvida, estaremos aqui!
 Abraços
 
 Equipe Dibbi :heart: <br><br>
+
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 
 [![alt text][3.1]][3]

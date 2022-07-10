@@ -1,19 +1,12 @@
-## Tela de login
+## Calendário Escolar 
 
 Olá, espero que esteja bem! :smiley:
 
-O acesso à plataforma é exclusivo para os usuários internos da escola.
-Todos acessam via web, através do endereço:
+A gente sabe que sua escola tem muitas programações durante o ano. Na Dibbi, você consegue acompanhar os detalhes dos eventos pedagógicos. 
 
-Clique aqui para acessar a Dibbi
+Aqui você ficará por dentro de todos os compromissos, podendo visualizar os eventos por mês, semana ou por dia. 
 
-O endereço possui a seguinte tela:
-
-![alt text](https://orendevelopers.com.br/basedibbi/teladelogin.png)
-
-Insira seu e-mail e senha cadastrados no sistema pelo responsável, geralmente é o diretor(a) ou coordenador(a) pedagógico.
-
- :warning: Ahhh, lembrando que o e-mail deve ter sempre os caracteres em minúsculo e sem espaços, beleza?<br><br>
+Você visualizará apenas o calendário correspondente ao seu nível de ensino, e o calendário global.<br><br>
 
 
 Qualquer dúvida, estaremos aqui!
@@ -21,6 +14,7 @@ Qualquer dúvida, estaremos aqui!
 Abraços
 
 Equipe Dibbi :heart: <br><br>
+
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 
 [![alt text][3.1]][3]

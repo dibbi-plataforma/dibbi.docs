@@ -1,5 +1,6 @@
-## Redefinir senha
-### Olá pessoal, beleza? <br><br>
+## Editar Senha
+
+Olá, espero que esteja bem! :smiley:
 
 Eu sei que a gente esquece a senha às vezes, mas isso não é problema, nós vamos te ajudar.
 
