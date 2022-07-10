@@ -16,11 +16,8 @@ Para realizar o cadastro dessas informações, siga os passos:
 Sempre escreva o nome da turma com a primeira letra em maiúsculo.
 :::
 
-Vídeo
+Vídeo: [Cadastro de Turmas](https://user-images.githubusercontent.com/94073830/177826514-0f5fee97-d560-480d-8f76-bb9bff21fc86.mp4)
 
-https://user-images.githubusercontent.com/94073830/177826514-0f5fee97-d560-480d-8f76-bb9bff21fc86.mp4
-
-<br><br>
 Qualquer dúvida, estaremos aqui!
 
 Abraços

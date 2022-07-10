@@ -15,8 +15,6 @@ Depois que é inserido um plano de aula na plataforma, não é possível mudar o
 Todos os itens a serem preenchidos, serão, por padrão, para o mesmo nível de ensino.
 :::
 
-<br><br>
-
 Qualquer dúvida, estaremos aqui!
 
 Abraços
