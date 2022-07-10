@@ -1,4 +1,4 @@
-## Cadastro de Usuários
+## Cadastro dos Itens do Plano de Aula
 ### Olá pessoal, beleza? <br><br>
 
 Esse é o momento mais importante na configuração da Dibbi. Aqui você vai realizar o cadastro da matriz pedagógica com os itens do plano a serem preenchidos pelo professor.
