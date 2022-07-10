@@ -21,10 +21,16 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
+  /**
+   * Embedded HTML5 Video from Markdown Image Link with Video Suffixes
+   *
+   * ref：https://github.com/vuejs/vuepress/issues/870
+   */
+
   markdown: {
     lineNumbers: false,
     config: _ => {
-      _.use(require('markdown-it-html-embed'), {
+      _.use(require('markdown-it-html5-embed'), {
         html5embed: {
           useImageSyntax: true,
           useLinkSyntax: false
