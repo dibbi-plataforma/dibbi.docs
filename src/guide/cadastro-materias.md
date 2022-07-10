@@ -1,5 +1,8 @@
 # Cadastro de Matérias 
 
+![Teacher (1)](https://user-images.githubusercontent.com/94073830/178129653-2f074d3e-b0a7-4928-b773-7c6c275f2821.gif)
+
+
 Olá, espero que esteja bem! :smiley:
 
 O cadastro de matérias permite que você registre na plataforma todas as disciplinas escolares e as turmas na qual elas pertencem. 
@@ -10,10 +13,14 @@ Veja como é fácil cadastrar uma matéria, siga os passos:
 2. Na tela seguinte digite o **Nome da Matéria** desejada.
 3. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.
 
+![chrome-capture-2022-6-10](https://user-images.githubusercontent.com/94073830/178129912-5e049ad8-20d2-4d75-9b32-89d68928dbf3.gif)
+
+
+<br><br>
 ::: warning
 O status da matéria, por padrão, é ativo.
 :::
-
+<br><br>
 Vídeo: [Cadastro de Matérias](https://user-images.githubusercontent.com/94073830/177825941-6909fd74-7807-49d9-a72c-07b180fea28c.mp4)
 
 Qualquer dúvida, estaremos aqui!

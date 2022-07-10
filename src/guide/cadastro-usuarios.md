@@ -16,7 +16,7 @@ Para realizar o cadastro dessas informações, siga os passos:
 ::: warning
 Os campos com asteriscos são obrigatórios.
 
-Caso você não saiba o telefone, insira qualquer número. Posteriormente o usuário do perfil poderá editar as informações em seu login.
+Caso você não saiba o telefone, insira um número genérico. Depois o usuário do perfil poderá editar as informações em seu login.
 :::
 
 Vídeo: [Cadastro de Usuários](https://user-images.githubusercontent.com/94073830/178087659-749fe742-2d38-483f-aa1d-758ae99e3f0d.mp4)
