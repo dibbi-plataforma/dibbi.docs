@@ -1,4 +1,4 @@
-## Cadastro de Notícias
+# Cadastro de Notícias
 
 Olá, espero que esteja bem! :smiley:
 
