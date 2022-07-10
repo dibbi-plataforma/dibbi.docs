@@ -1,5 +1,7 @@
 # Cadastro de Matérias 
 
+![Teacher](https://user-images.githubusercontent.com/94073830/178129618-3b766d04-c89b-4b89-8156-5b00579d30ea.gif)
+
 Olá, espero que esteja bem! :smiley:
 
 O cadastro de matérias permite que você registre na plataforma todas as disciplinas escolares e as turmas na qual elas pertencem. 
