@@ -6,9 +6,9 @@ Para que sua equipe possa utilizar a Dibbi, é necessário que todos estejam dev
 
 Para realizar o cadastro dessas informações, siga os passos:
 
-1. Clique no botão adicionar.
-2. Escreva o nome, email e telefone do usuário. Se possível insira uma foto.
-3. Em permissões, escolha o tipo de usuário. Caso seja:
+1. Clique no botão **Adicionar**.
+2. Escreva o **Nome**, **E-mail** e **Telefone do Usuário**. Se possível insira uma **foto**.
+3. Em **Permissões**, escolha o tipo de usuário. Caso seja:
     - **Coordenador:** Clique no nível de ensino.
     - **Professor:** Expanda o nível de ensino desejado, selecione a turma e escolha a matéria que o professor irá ensinar.
 4. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.

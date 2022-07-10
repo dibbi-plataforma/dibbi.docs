@@ -6,11 +6,11 @@ Aqui na Dibbi você pode criar e editar suas turmas para o ano letivo. Nessa tel
 
 Para realizar o cadastro dessas informações, siga os passos:
 
-1. Clique no botão adicionar.
+1. Clique no botão **Adicionar**.
 2. Digite o nome da turma.
     - **Exemplo**: Infantil 2A.
-3. Escolha o turno, o nível e a série em que a turma pertence.
-4. Nessa tela você encontrará as disciplinas inseridas no cadastro de matérias. Selecione os conteúdos que a turma possui.
+3. Escolha o **Turno**, o **Nível** e a **Série** em que a turma pertence.
+4. Nessa tela você encontrará as **disciplinas inseridas no cadastro de matérias**. Selecione os conteúdos que a turma possui.
 5. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.
 
 ::: warning
