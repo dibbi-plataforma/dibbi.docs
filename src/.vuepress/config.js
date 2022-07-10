@@ -86,10 +86,10 @@ module.exports = {
       ],
       '/professor/': [
         {
-          title: 'Professor',
+          title: 'Cadastro',
           collapsable: false,
           children: [
-            '../geral/README',
+            '',
             'cadastro-planodeaula',
           ]
         }
