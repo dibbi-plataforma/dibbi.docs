@@ -2,7 +2,7 @@
 
 ## Cadastro de Matérias
 
-### Olá pessoal, beleza? <br><br>
+##### Olá pessoal, beleza? <br><br>
 
 O cadastro de matérias permite que você registre na plataforma todas as disciplinas escolares e as turmas na qual elas pertencem. 
  
@@ -42,9 +42,9 @@ Equipe Dibbi :heart: <br><br>
 [4]: https://www.linkedin.com/company/dibbi-plataforma
 [5]: https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi
 
-## Avisos
+## Cadastro de Avisos
 
-### Olá pessoal, beleza? <br><br>
+##### Olá pessoal, beleza? <br><br>
 
 Nesse local você irá documentar as atividades e alinhar o seu time. Para compartilhar as informações pedagógicas da sua escola com os professores, siga os passos:
 
@@ -83,7 +83,7 @@ Equipe Dibbi :heart: <br><br>
 
 ## Cadastro de Turmas
 
-### Olá pessoal, beleza? <br><br>
+##### Olá pessoal, beleza? <br><br>
 
 Aqui na Dibbi você pode criar e editar suas turmas para o ano letivo. Nessa tela você gerencia as classes da sua escola.
 
@@ -128,7 +128,7 @@ Equipe Dibbi :heart: <br><br>
 
 ## Cadastro de Usuários
 
-### Olá pessoal, beleza? <br><br>
+##### Olá pessoal, beleza? <br><br>
 
 Para que sua equipe possa utilizar a Dibbi, é necessário que todos estejam devidamente cadastrados na plataforma. Nessa tela você gerencia os usuários da sua escola. 
 
@@ -174,12 +174,11 @@ Equipe Dibbi :heart: <br><br>
 [4]: https://www.linkedin.com/company/dibbi-plataforma
 [5]: https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi
 
-## Cadastro de Usuários
+## Cadastro da Matriz Pedagógica
 
-### Olá pessoal, beleza? <br><br>
+##### Olá pessoal, beleza? <br><br>
 
-Esse é o momento mais importante na configuração da Dibbi. Aqui você vai realizar o cadastro da matriz pedagógica com os itens do plano a serem preenchidos pelo professor.
-Para realizar o cadastro dos itens do plano, siga os passos:
+Esse é o momento mais importante na configuração da Dibbi. Aqui você vai realizar o cadastro da matriz pedagógica com os itens do plano a serem preenchidos pelo professor. Para realizar o cadastro dos itens do plano, siga os passos:
 
 1 - Clique no botão adicionar;<br>
 2 - Escreva o nome do item que será preenchido pelo professor no plano de aula. 
@@ -215,9 +214,9 @@ Equipe Dibbi :heart: <br><br>
 [4]: https://www.linkedin.com/company/dibbi-plataforma
 [5]: https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi
 
-## Como adicionar um evento no calendário!
+## Cadastro de Evento
 
-### Olá pessoal, beleza? <br><br>
+##### Olá pessoal, beleza? <br><br>
 
 A gente sabe que sua escola tem muitas programações durante o ano. Que tal deixar tudo  organizado?
 
