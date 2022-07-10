@@ -1,32 +1,24 @@
----
-sidebar: auto
----
+## Tela de login
+### Olá pessoal, beleza?<br><br>
+O acesso à plataforma é exclusivo para os usuários internos da escola.
+Todos acessam via web, através do endereço:
 
-# Cadastro
+Clique aqui para acessar a Dibbi
 
-## Como adicionar um plano de aula?
+O endereço possui a seguinte tela:
 
-Olá, espero que esteja bem! :smiley:
+![alt text](https://orendevelopers.com.br/basedibbi/teladelogin.png)
 
-Agora que você faz parte da **Dibbi** e decidiu gerenciar seus planos online, aqui você poderá realizar seu planejamento.
+Insira seu e-mail e senha cadastrados no sistema pelo responsável, geralmente é o diretor(a) ou coordenador(a) pedagógico.
 
-Para adicionar um plano de aula, siga os passos:
+ :warning: Ahhh, lembrando que o e-mail deve ter sempre os caracteres em minúsculo e sem espaços, beleza?<br><br>
 
-1. Clique no botão **Adicionar**.
-2. Na próxima tela, selecione a **Matéria Desejada**, escolha a **Data de Aplicação** e escreva o **Assunto da Aula**.
-3. Preencha os campos que foram previamente configurados pela coordenação.
-4. Em seguida, clique em **Salvar**. Caso queira adicionar outro **Plano de Aula**, clique em **Salvar e Novo**.
-
-::: warning
-Para não ter nenhuma surpresa, escreva o plano e salve periodicamente.
-:::
 
 Qualquer dúvida, estaremos aqui!
 
 Abraços
 
-Equipe Dibbi :heart:
-
+Equipe Dibbi :heart: <br><br>
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 
 [![alt text][3.1]][3]

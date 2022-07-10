@@ -1,31 +1,19 @@
----
-sidebar: auto
----
+## Editar Perfil
+### Olá pessoal, beleza?<br><br>
 
-# Cadastro
+Se você deseja mudar seus dados como, nome, e-mail, telefone ou a senha, siga os passos:
 
-## Como adicionar um plano de aula?
+1 - No canto superior direito, Clique na sua foto ou na logo da Dibbi, escolha a opção: **Editar perfil**;<br>
+2 - Para mudar o nome e telefone, edite os campos correspondentes;<br>
+3 - Para mudar a foto, clique em 'Browser'; Busque pela imagem salva em seu computador e selecione-a; <br>
+4 - Por último, clique em Salvar.<br><br>
 
-Olá, espero que esteja bem! :smiley:
-
-Agora que você faz parte da **Dibbi** e decidiu gerenciar seus planos online, aqui você poderá realizar seu planejamento.
-
-Para adicionar um plano de aula, siga os passos:
-
-1. Clique no botão **Adicionar**.
-2. Na próxima tela, selecione a **Matéria Desejada**, escolha a **Data de Aplicação** e escreva o **Assunto da Aula**.
-3. Preencha os campos que foram previamente configurados pela coordenação.
-4. Em seguida, clique em **Salvar**. Caso queira adicionar outro **Plano de Aula**, clique em **Salvar e Novo**.
-
-::: warning
-Para não ter nenhuma surpresa, escreva o plano e salve periodicamente.
-:::
 
 Qualquer dúvida, estaremos aqui!
 
 Abraços
 
-Equipe Dibbi :heart:
+Equipe Dibbi :heart: <br><br>
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 

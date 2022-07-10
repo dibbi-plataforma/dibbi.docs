@@ -77,6 +77,8 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'editar-perfil',
+            'editar-senha',
           ]
         }
       ],

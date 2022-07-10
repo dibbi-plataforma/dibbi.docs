@@ -1,31 +1,22 @@
----
-sidebar: auto
----
+## Redefinir senha
+### Olá pessoal, beleza? <br><br>
 
-# Cadastro
+Eu sei que a gente esquece a senha às vezes, mas isso não é problema, nós vamos te ajudar.
 
-## Como adicionar um plano de aula?
+Siga os passos:
 
-Olá, espero que esteja bem! :smiley:
+1 - Na página inicial clique em Esqueci a senha;<br>
+2 - No campo Recupere sua senha insira seu e-mail cadastrado;<br>
+3 - Um  e-mail  é enviado com um login de recuperação da sua senha.
 
-Agora que você faz parte da **Dibbi** e decidiu gerenciar seus planos online, aqui você poderá realizar seu planejamento.
+Caso você não lembre do seu e-mail, entre em contato com o coordenador pedagógico.<br><br>
 
-Para adicionar um plano de aula, siga os passos:
-
-1. Clique no botão **Adicionar**.
-2. Na próxima tela, selecione a **Matéria Desejada**, escolha a **Data de Aplicação** e escreva o **Assunto da Aula**.
-3. Preencha os campos que foram previamente configurados pela coordenação.
-4. Em seguida, clique em **Salvar**. Caso queira adicionar outro **Plano de Aula**, clique em **Salvar e Novo**.
-
-::: warning
-Para não ter nenhuma surpresa, escreva o plano e salve periodicamente.
-:::
 
 Qualquer dúvida, estaremos aqui!
 
 Abraços
 
-Equipe Dibbi :heart:
+Equipe Dibbi :heart: <br><br>
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 
