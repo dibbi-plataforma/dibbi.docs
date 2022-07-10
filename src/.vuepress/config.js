@@ -52,11 +52,19 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Geral',
+        link: '/geral/',
       },
       {
-        text: 'Dibbi',
+        text: 'Coordenador',
+        link: '/coordenador/',
+      },
+      {
+        text: 'Professor',
+        link: '/professor/',
+      },
+      {
+        text: 'Site',
         link: 'https://dibbi.com.br/'
       },
       {
@@ -81,9 +89,33 @@ module.exports = {
       }*/
     ],
     sidebar: {
-      '/guide/': [
+      '/geral/': [
         {
-          title: 'Guide',
+          title: 'Geral',
+          collapsable: false,
+          children: [
+            '',
+          ]
+        }
+      ],
+      '/coordenador/': [
+        {
+          title: 'Coordenador',
+          collapsable: false,
+          children: [
+            '',
+            'cadastro-materias',
+            'cadastro-turmas',
+            'cadastro-usuarios',
+            'cadastro-itensdoplano',
+            'cadastro-noticias',
+            'cadastro-evento',
+          ]
+        }
+      ],
+      '/professor/': [
+        {
+          title: 'Professor',
           collapsable: false,
           children: [
             '',

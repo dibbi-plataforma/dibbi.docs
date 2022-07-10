@@ -3,7 +3,7 @@ home: true
 heroImage: /logo.png
 tagline: A documentação da sua plataforma Dibbi.
 actionText: Começar →
-actionLink: /guide/
+actionLink: /geral/
 #features:
 #- title: Links úteis
 #  details: ![Suporte](https://dibbi.com.br)
