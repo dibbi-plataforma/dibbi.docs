@@ -2,15 +2,17 @@
 
 Olá, espero que esteja bem! :smiley:
 
-Se você tem mais de 30 anos, provavelmente se recorda de um programa de curiosidades que era transmitido na TV, à tarde, depois do almoço. Lembrou né? <br>
-Ele mesmo, o Vídeo Show. Este programa falava basicamente da programação, como novelas, curiosidades, bastidores e outras coisas mais.
+Se você tem mais de 30 anos, provavelmente se recorda de um programa de curiosidades que era transmitido na TV, à tarde, depois do almoço. Lembrou né?
 
-Certo, mas o que ele tem a ver com a ferramenta “novidades” da Dibbi? 
+Ele mesmo, o Vídeo Show!
+
+Este programa falava basicamente da programação, como novelas, curiosidades, bastidores e outras coisas mais.
+
+Certo, mas o que ele tem a ver com a ferramenta **novidades** da **Dibbi**?
 
 **Reposta:** Só tudo!
 
 Essa ferramenta serve para informar sobre tudo que tem novo na Dibbi, assim como Vídeo Show fazia com os programas da emissora.
-
 
 Qualquer dúvida, estaremos aqui!
 
