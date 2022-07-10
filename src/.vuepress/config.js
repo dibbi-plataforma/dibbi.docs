@@ -37,10 +37,10 @@ module.exports = {
         text: 'Guide',
         link: '/guide/',
       },
-      {
+      /**{
         text: 'Config',
         link: '/config/'
-      },
+      }, */
       {
         text: 'Dibbi',
         link: 'https://dibbi.com.br/'
@@ -57,7 +57,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'cadastro',
           ]
         }
       ],
