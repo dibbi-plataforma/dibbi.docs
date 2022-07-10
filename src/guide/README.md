@@ -1,6 +1,6 @@
 # Introdução
 
-A Dibbi é uma plataforma com ferramentas para GESTÃO do setor PEDAGÓGICO da sua escola.
+A **Dibbi** é uma plataforma com ferramentas para **GESTÃO** do setor **PEDAGÓGICO** da sua escola.
 
 Potencializamos a ação da coordenação pedagógica, tornando ágil a atividade do professor e do coordenador na gestão do plano de aula.
 
