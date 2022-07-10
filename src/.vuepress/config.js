@@ -106,7 +106,7 @@ module.exports = {
       ],
       '/coordenador/': [
         {
-          title: 'Coordenador 1',
+          title: 'Coordenador',
           collapsable: false,
           children: [
             '',
