@@ -16,7 +16,7 @@ O status da matéria, por padrão, é ativo.
 
 Vídeo:
 
-../../images/cadastro-materias.mp4
+![VIDEO](../../images/cadastro-materias.mp4)
 
 <br><br>Qualquer dúvida, estaremos aqui!
 
