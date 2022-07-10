@@ -16,7 +16,7 @@ O status da matéria, por padrão, é ativo.
 
 Vídeo:
 
-https://user-images.githubusercontent.com/94073830/177825941-6909fd74-7807-49d9-a72c-07b180fea28c.mp4
+![VIDEO](https://user-images.githubusercontent.com/94073830/177825941-6909fd74-7807-49d9-a72c-07b180fea28c.mp4)
 
 <br><br>Qualquer dúvida, estaremos aqui!
 
