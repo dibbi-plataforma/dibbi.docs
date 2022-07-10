@@ -1,4 +1,4 @@
-## Editar Senha
+# Editar Senha
 
 Olá, espero que esteja bem! :smiley:
 
@@ -6,18 +6,17 @@ Eu sei que a gente esquece a senha às vezes, mas isso não é problema, nós va
 
 Siga os passos:
 
-1 - Na página inicial clique em Esqueci a senha;<br>
-2 - No campo Recupere sua senha insira seu e-mail cadastrado;<br>
-3 - Um  e-mail  é enviado com um login de recuperação da sua senha.
+1. Na página inicial clique em Esqueci a senha.
+2. No campo Recupere sua senha insira seu e-mail cadastrado.
+3. Um  e-mail  é enviado com um login de recuperação da sua senha.
 
-Caso você não lembre do seu e-mail, entre em contato com o coordenador pedagógico.<br><br>
-
+Caso você não lembre do seu e-mail, entre em contato com o coordenador pedagógico.
 
 Qualquer dúvida, estaremos aqui!
 
 Abraços
 
-Equipe Dibbi :heart: <br><br>
+Equipe Dibbi :heart:
 
 [![alt text][1.1]][1] 
 [![alt text][2.1]][2] 
