@@ -8,17 +8,18 @@ sidebar: auto
 
 Olá, espero que esteja bem! :smiley:
 
-Agora que você faz parte da Dibbi e decidiu gerenciar seus planos online, aqui você poderá realizar seu planejamento.
+Agora que você faz parte da **Dibbi** e decidiu gerenciar seus planos online, aqui você poderá realizar seu planejamento.
 
 Para adicionar um plano de aula, siga os passos:
 
-1 - Clique no botão **Adicionar**.
-2 - Na próxima tela, selecione a matéria desejada, escolha a data de aplicação e escreva o assunto da aula.<br>
-3 - Preencha os campos que foram previamente configurados pela coordenação. <br>
-4 -  Em seguida, clique em ‘Salvar’. Caso queira adicionar outro plano de aula, clique em Salvar e Novo.
+1. Clique no botão **Adicionar**.
+2. Na próxima tela, selecione a **Matéria Desejada**, escolha a **Data de Aplicação** e escreva o **Assunto da Aula**.
+3. Preencha os campos que foram previamente configurados pela coordenação.
+4. Em seguida, clique em **Salvar**. Caso queira adicionar outro **Plano de Aula**, clique em **Salvar e Novo**.
 
-:warning: Para não ter nenhuma surpresa, escreva o plano e salve periodicamente.<br><br>
-
+::: warning
+Para não ter nenhuma surpresa, escreva o plano e salve periodicamente.
+:::
 
 Qualquer dúvida, estaremos aqui!
 
