@@ -4,7 +4,7 @@ Olá, espero que esteja bem! :smiley:
 
 Se você tem mais de 30 anos, provavelmente se recorda de um programa de curiosidades que era transmitido na TV, à tarde, depois do almoço. Lembrou né?
 
-Ele mesmo, o Vídeo Show!
+Ele mesmo, o **Vídeo Show**!
 
 Este programa falava basicamente da programação, como novelas, curiosidades, bastidores e outras coisas mais.
 
