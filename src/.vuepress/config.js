@@ -80,7 +80,7 @@ module.exports = {
             'dashboard',
             'noticias',
             'calendario-escolar',
-            'minhas-turmas',
+            'planos-de-aula',
             'novidades',
           ]
         }
