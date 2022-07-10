@@ -1,6 +1,4 @@
-# Geral
-
-## Conhecendo a Dibbi
+# Conhecendo a Dibbi
 
 Seja bem-vindo(a) à **Dibbi**!
 
