@@ -40,8 +40,8 @@ module.exports = {
       {
         text: 'Dibbi',
         link: 'https://dibbi.com.br/'
-      },
-      /**{
+      }/**,
+      {
         text: 'Config',
         link: '/config/'
       },
