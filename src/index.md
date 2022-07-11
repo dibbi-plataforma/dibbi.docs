@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /logo.dibbi.png
 tagline: A documentação da sua plataforma Dibbi.
 actionText: Começar →
 actionLink: /geral/

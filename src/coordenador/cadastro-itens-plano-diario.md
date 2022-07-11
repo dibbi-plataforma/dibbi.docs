@@ -22,20 +22,8 @@ Abraços
 
 Equipe Dibbi :heart:
 
-[![alt text(https://orendevelopers.com.br/basedibbi/docsfacebook1.png)][1]
-[![alt text(https://orendevelopers.com.br/basedibbi/docsinsta.png)][2]
-[![alt text()][3.1]][3]
-[![alt text()][4.1]][4]
-[![alt text()][5.1]][5]
-
-[1.1]: https://orendevelopers.com.br/basedibbi/docsfacebook1.png (Siga nosso Instagram)   
-[2.1]: https://orendevelopers.com.br/basedibbi/docsinsta.png (Curta nossa Fanpage) 
-[3.1]: https://orendevelopers.com.br/basedibbi/websitedocs1.png (Acesse nosso site)  
-[4.1]: https://orendevelopers.com.br/basedibbi/linkedindocs.png (Acompanhe nosso Linkedin)
-[5.1]: https://orendevelopers.com.br/basedibbi/whatsappdocs.png (Fale pelo Whatsapp)
-
-[1]: https://www.facebook.com/dibbi.plataforma
-[2]: https://www.instagram.com/dibbi.plataforma/
-[3]: https://dibbi.com.br/
-[4]: https://www.linkedin.com/company/dibbi-plataforma
-[5]: https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi
+[![facebook](/icon.facebook.png)](https://www.facebook.com/dibbi.plataforma)
+[![facebook](/icon.instagram.png)](https://www.instagram.com/dibbi.plataforma)
+[![facebook](/icon.website.png)](https://dibbi.com.br)
+[![facebook](/icon.linkedin.png)](https://www.linkedin.com/company/dibbi-plataforma)
+[![facebook](/icon.whatsapp.png)](https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi)
