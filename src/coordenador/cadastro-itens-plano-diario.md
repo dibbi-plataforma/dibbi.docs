@@ -16,14 +16,12 @@ Depois que é inserido um plano de aula na plataforma, não é possível mudar o
 Todos os itens a serem preenchidos, serão, por padrão, para o mesmo nível de ensino.
 :::
 
-Qualquer dúvida, estaremos aqui!
+Qualquer dúvida, estaremos aqui. Abraços!
 
-Abraços
+Equipe **Dibbi** :heart:
 
-Equipe Dibbi :heart:
-
-[![facebook](/icon.facebook.png)](https://www.facebook.com/dibbi.plataforma)
-[![instagram](/icon.instagram.png)](https://www.instagram.com/dibbi.plataforma)
-[![website](/icon.website.png)](https://dibbi.com.br)
-[![linkedin](/icon.linkedin.png)](https://www.linkedin.com/company/dibbi-plataforma)
-[![whatsapp](/icon.whatsapp.png)](https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi)
+[![facebook][/icon.facebook.png (Siga nosso Instagram)]](https://www.facebook.com/dibbi.plataforma)
+[![instagram][/icon.instagram.png (Curta nossa Fanpage)]](https://www.instagram.com/dibbi.plataforma)
+[![website][/icon.website.png (Acesse nosso site)]](https://dibbi.com.br)
+[![linkedin][/icon.linkedin.png (Acompanhe nosso Linkedin)]](https://www.linkedin.com/company/dibbi-plataforma)
+[![whatsapp][/icon.whatsapp.png (Fale pelo Whatsapp)]](https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi)
