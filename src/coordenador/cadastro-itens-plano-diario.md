@@ -22,11 +22,11 @@ Abraços
 
 Equipe Dibbi :heart:
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
+[![alt text()][1.1]][1]
+[![alt text()][2.1]][2]
+[![alt text()][3.1]][3]
+[![alt text()][4.1]][4]
+[![alt text()][5.1]][5]
 
 [1.1]: https://orendevelopers.com.br/basedibbi/docsfacebook1.png (Siga nosso Instagram)   
 [2.1]: https://orendevelopers.com.br/basedibbi/docsinsta.png (Curta nossa Fanpage) 
