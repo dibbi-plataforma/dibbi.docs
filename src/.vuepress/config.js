@@ -22,6 +22,16 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
+
+  markdown: {
+    plugins: [
+      '@org/foo', // equals to @org/markdown-it-foo if exists
+      ['markdown-it-bar', {
+        // provide options here
+      }]
+    ]
+  },
+
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
