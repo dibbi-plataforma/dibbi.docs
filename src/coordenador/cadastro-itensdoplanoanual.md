@@ -9,7 +9,7 @@ Para realizar o cadastro dos itens do plano anual, siga os passos:
 2. Clique em **Itens do plano anual** e uma nova tela irá abrir.
 3. Clique no botão verde "adicionar".
 4. No campo **nome**, digite o primeiro campo que o professor deve preencher do plano de aula anual
- - Exemplo: Desenvolvimento, conteúdo, objetivo etc.;
+    - **Exemplo**: Desenvolvimento, conteúdo, objetivo etc.;
 5. Escolha o nível de ensino para qual esse item vai aparecer.
 7. Caso esse item seja obrigatório, deixe marcada essa opção.
 
