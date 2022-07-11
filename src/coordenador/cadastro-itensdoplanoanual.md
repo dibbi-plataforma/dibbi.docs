@@ -2,7 +2,8 @@
 
 Olá, espero que esteja bem! :smiley:
 
-Aqui você vai realizar o cadastro da matriz pedagógica com os itens do plano anual a serem preenchidos pelo professor. Para realizar o cadastro dos itens do plano anual, siga os passos:
+Aqui você vai realizar o cadastro da matriz pedagógica com os itens do plano **anual** a serem preenchidos pelo professor. 
+Para realizar o cadastro dos itens do plano anual, siga os passos:
 
 1. No menu lateral, clique em **configurações**.
 2. Clique em **Itens do plano anual** e uma nova tela irá abrir.
