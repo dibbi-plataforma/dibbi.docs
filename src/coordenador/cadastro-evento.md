@@ -19,7 +19,7 @@ Você pode criar eventos de um ou vários dias. Também é possível adicionar v
 
 **Vídeo**: [Cadastro de Evento](https://user-images.githubusercontent.com/94073830/177827316-c3d434b7-3913-4b31-b893-65773423b611.mp4)
 
-Qualquer dúvida, estaremos aqui. Abraços!
+<br>Qualquer dúvida, estaremos aqui. Abraços!
 
 Equipe **Dibbi** :heart:
 

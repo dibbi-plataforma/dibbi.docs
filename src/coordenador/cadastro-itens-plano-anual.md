@@ -17,7 +17,7 @@ Para realizar o cadastro dos itens do plano anual, siga os passos:
 O conteúdo dos planos anuais podem ser dividos por blocos ou por semana
 :::
 
-Qualquer dúvida, estaremos aqui. Abraços!
+<br>Qualquer dúvida, estaremos aqui. Abraços!
 
 Equipe **Dibbi** :heart:
 

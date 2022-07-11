@@ -8,7 +8,7 @@ Nossa missão é levar evolução, governança, gestão e eficiência para a ár
 
 Somos uma plataforma de gerenciamento do setor pedagógico da escola. Nós temos várias funcionalidades para te ajudar.
 
-Qualquer dúvida, estaremos aqui. Abraços!
+<br>Qualquer dúvida, estaremos aqui. Abraços!
 
 Equipe **Dibbi** :heart:
 

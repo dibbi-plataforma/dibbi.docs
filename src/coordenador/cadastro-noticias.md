@@ -11,7 +11,7 @@ Nesse local você irá documentar as atividades e alinhar o seu time. Para compa
 
 **Vídeo**: [Cadastro de Notícias](https://user-images.githubusercontent.com/94073830/177827070-9e2ecce0-081b-41c5-9e86-8c5ae468cdee.mp4)
 
-Qualquer dúvida, estaremos aqui. Abraços!
+<br>Qualquer dúvida, estaremos aqui. Abraços!
 
 Equipe **Dibbi** :heart:
 

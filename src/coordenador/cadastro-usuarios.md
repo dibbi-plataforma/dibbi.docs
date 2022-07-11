@@ -21,7 +21,7 @@ Caso você não saiba o telefone, insira um número genérico. Depois o usuário
 
 **Vídeo**: [Cadastro de Usuários](https://user-images.githubusercontent.com/94073830/178087659-749fe742-2d38-483f-aa1d-758ae99e3f0d.mp4)
 
-Qualquer dúvida, estaremos aqui. Abraços!
+<br>Qualquer dúvida, estaremos aqui. Abraços!
 
 Equipe **Dibbi** :heart:
 
