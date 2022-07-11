@@ -28,6 +28,9 @@ module.exports = {
       '@org/foo', // equals to @org/markdown-it-foo if exists
       ['markdown-it-bar', {
         // provide options here
+      }],
+      ['markdown-it-anchor', {
+        // provide options here
       }]
     ]
   },
