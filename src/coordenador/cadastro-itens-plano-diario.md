@@ -23,7 +23,7 @@ Abraços
 Equipe Dibbi :heart:
 
 [![facebook](/icon.facebook.png)](https://www.facebook.com/dibbi.plataforma)
-[![facebook](/icon.instagram.png)](https://www.instagram.com/dibbi.plataforma)
-[![facebook](/icon.website.png)](https://dibbi.com.br)
-[![facebook](/icon.linkedin.png)](https://www.linkedin.com/company/dibbi-plataforma)
-[![facebook](/icon.whatsapp.png)](https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi)
+[![instagram](/icon.instagram.png)](https://www.instagram.com/dibbi.plataforma)
+[![website](/icon.website.png)](https://dibbi.com.br)
+[![linkedin](/icon.linkedin.png)](https://www.linkedin.com/company/dibbi-plataforma)
+[![whatsapp](/icon.whatsapp.png)](https://api.whatsapp.com/send?phone=5585991077098&text=Ol%C3%A1,%20estou%20vindo%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Dibbi)
