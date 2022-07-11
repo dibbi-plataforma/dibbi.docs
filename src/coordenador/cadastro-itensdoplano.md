@@ -1,4 +1,4 @@
-# Cadastro dos Itens do Plano de Aula
+# Cadastro dos Itens do Plano de Aula diário
 
 Olá, espero que esteja bem! :smiley:
 
