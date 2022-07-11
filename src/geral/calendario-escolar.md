@@ -1,9 +1,4 @@
----
-title: Blogging Like a Hacker
-lang: en-US
----
-
-# {{ $frontmatter.title }}
+# Calendário Escolar
 
 Olá, espero que esteja bem! :smiley:
 
