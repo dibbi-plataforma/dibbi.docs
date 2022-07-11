@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Dibbi Docs',
+  title: 'Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
