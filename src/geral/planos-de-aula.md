@@ -50,7 +50,8 @@ Após escrever o seu plano de aula, neste local você conseguirá visualizar as 
 Inserir imagem aqui
 
 ::: warning
-Os itens do plano que você preenche já foram previamente configurados pelo coordenador .Todos os planos de aula terão a mesma visualização.
+Os itens do plano que você preenche já foram previamente configurados pelo coordenador. Todos os planos de aula terão a mesma visualização.
+
 Caso você precise alterar o plano de aula, clique no botão editar. Também é possível responder um comentário do coordenador no campo feedback do coordenador.
 :::
 
