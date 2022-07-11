@@ -18,7 +18,7 @@ Todos os itens a serem preenchidos, serão, por padrão, para o mesmo nível de 
 
 Qualquer dúvida, estaremos aqui. Abraços!
 
-Equipe Dibbi :heart:
+Equipe **Dibbi** :heart:
 
 [![facebook][1.1]][1]
 [![instagram][2.1]][2]
