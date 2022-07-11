@@ -28,7 +28,6 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
-    externalLinkSymbol: false,
     editLinks: false,
     docsDir: '',
     editLinkText: '',
