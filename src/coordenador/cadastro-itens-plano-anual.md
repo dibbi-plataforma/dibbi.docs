@@ -1,19 +1,20 @@
-# Cadastro dos Itens do Plano de Aula diário
+# Cadastro dos Itens do Plano Anual
 
 Olá, espero que esteja bem! :smiley:
 
-Esse é o momento mais importante na configuração da Dibbi. Aqui você vai realizar o cadastro da matriz pedagógica com os itens do plano a serem preenchidos pelo professor. Para realizar o cadastro dos itens do plano, siga os passos:
+Aqui você vai realizar o cadastro da matriz pedagógica com os itens do plano **anual** a serem preenchidos pelo professor. 
+Para realizar o cadastro dos itens do plano anual, siga os passos:
 
-1. Clique no botão **Adicionar**.
-2. Escreva o nome do item que será preenchido pelo **Professor** no **Plano de Aula**.
+1. No menu lateral, clique em **configurações**.
+2. Clique em **Itens do plano anual** e uma nova tela irá abrir.
+3. Clique no botão verde "adicionar".
+4. No campo **nome**, digite o primeiro campo que o professor deve preencher do plano de aula anual
     - **Exemplo**: Desenvolvimento, conteúdo, objetivo etc.;
-3. Utilize o campo **Descrição**, caso precise fazer uma orientação sobre o que se trata o item que você está criando.
-4. No campo **Nível de Ensino**, selecione para qual etapa esse item será exibido.
-5. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.
+5. Escolha o nível de ensino para qual esse item vai aparecer.
+7. Caso esse item seja obrigatório, deixe marcada essa opção.
 
 ::: warning
-Depois que é inserido um plano de aula na plataforma, não é possível mudar o nome do item do plano.
-Todos os itens a serem preenchidos, serão, por padrão, para o mesmo nível de ensino.
+O conteúdo dos planos anuais podem ser dividos por blocos ou por semana
 :::
 
 Qualquer dúvida, estaremos aqui!
