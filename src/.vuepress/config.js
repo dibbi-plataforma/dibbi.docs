@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Docs',
+  title: 'Dibbi Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -17,7 +17,7 @@ module.exports = {
    */
   head: [
     ['link', { rel: 'icon', href: '/1.icon.dibbi.png' }],
-    ['meta', { name: 'theme-color', content: '#081b39' }],
+    ['meta', { name: 'theme-color', content: '#081B39' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
