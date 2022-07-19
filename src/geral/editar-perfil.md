@@ -7,7 +7,10 @@ Se você deseja mudar seus dados como, nome, e-mail, telefone ou a senha, siga o
 1. No canto superior direito, Clique na sua foto ou na logo da Dibbi, escolha a opção: **Editar perfil**.
 2. Para mudar o nome e telefone, edite os campos correspondentes.
 3. Para mudar a foto, clique em 'Browser'; Busque pela imagem salva em seu computador e selecione-a.
-4. Por último, clique em Salvar.
+4. Por último, clique em Salvar.<br><br>
+
+[rec-tab (16).webm](https://user-images.githubusercontent.com/94073830/179649042-b6bffaf2-7080-4c9e-96fe-bfada0e1c1b4.webm)
+
 
 <br>Qualquer dúvida, estaremos aqui. Abraços!
 
