@@ -1,10 +1,13 @@
-# Notícias 
+# Avisso
 
 Olá, espero que esteja bem! :smiley:
 
 Lembra da brincadeira do telefone sem fio? Aquela em que a mensagem chegava no final da fila toda distorcida.
 
-Com essa ferramenta isso não acontecerá, pois nesse espaço ficarão disponíveis as informações que a coordenação pedagógica deseja comunicar aos professores, como por exemplo, o início do planejamento, os cronogramas de aulas e as datas dos eventos escolares.
+Com essa ferramenta isso não acontecerá, pois nesse espaço ficarão disponíveis as informações que a coordenação pedagógica deseja comunicar aos professores, como por exemplo, o início do planejamento, os cronogramas de aulas e as datas dos eventos escolares.<br><br>
+
+![screencapture-app-dibbi-br-news-home-2022-07-18-23_16_54](https://user-images.githubusercontent.com/94073830/179649830-7c3c6e73-12a0-4df2-b500-6d5b1dc23cae.png)
+
 
 <br>Qualquer dúvida, estaremos aqui. Abraços!
 
