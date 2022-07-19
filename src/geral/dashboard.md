@@ -7,18 +7,18 @@ Após acessar a plataforma, a primeira visualização que você terá é do Dash
 ![alt text](https://orendevelopers.com.br/basedibbi/dashboard.gif)
 
 ## Estatísticas
-Aqui você consegue ver o total de professores e coordenadores, bem como saber quantas folhas sua escola economizou.<br>
+Aqui você consegue ver o total de professores e coordenadores, bem como saber quantas folhas sua escola economizou.<br><br>
 ![image](https://user-images.githubusercontent.com/94073830/179647844-908163f1-de9e-478d-b69c-e8ff020b233c.png)
 
 
 ## Professores
-Aqui é possível visualizar as seguintes informações: a última data de acesso de todos os docentes, quando eles inseriram o último plano de aula e quantos planos foram feitos no total.<br>
+Aqui é possível visualizar as seguintes informações: a última data de acesso de todos os docentes, quando eles inseriram o último plano de aula e quantos planos foram feitos no total.<br><br>
 ![image](https://user-images.githubusercontent.com/94073830/179648060-130e68a2-cd98-4ff3-bd62-9e3d01f7652e.png)
 
 
 ## Planos de aula corrigidos
 
-Mais abaixo, no lado direito da tela, é possível visualizar a porcentagem de planos corrigidos pelo coordenador, de acordo com o nível de ensino.<br>
+Mais abaixo, no lado direito da tela, é possível visualizar a porcentagem de planos corrigidos pelo coordenador, de acordo com o nível de ensino.<br><br>
 ![image](https://user-images.githubusercontent.com/94073830/179647946-0b8b582b-9689-4125-bb33-92dd227671c7.png)
 
 
