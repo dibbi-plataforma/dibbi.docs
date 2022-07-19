@@ -6,7 +6,10 @@ A gente sabe que sua escola tem muitas programações durante o ano. Na Dibbi, v
 
 Aqui você ficará por dentro de todos os compromissos, podendo visualizar os eventos por mês, semana ou por dia. 
 
-Você visualizará apenas o calendário correspondente ao seu nível de ensino, e o calendário global.
+Você visualizará apenas o calendário correspondente ao seu nível de ensino, e o calendário global.<br><br>
+
+![screencapture-app-dibbi-br-calendar-1-2022-07-18-23_14_20](https://user-images.githubusercontent.com/94073830/179649565-5ff8162c-5f5c-460e-af43-4736fb2c3a98.png)
+
 
 <br>Qualquer dúvida, estaremos aqui. Abraços!
 
