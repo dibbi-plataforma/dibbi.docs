@@ -13,14 +13,10 @@ Para mudar a data de um plano de aula, siga os passos:
 
 ![image](https://user-images.githubusercontent.com/94073830/189203870-56ef97eb-f68b-49ec-a72a-4cc68042f756.png)
 
-6. Um alerta de sucesso irá aparecer no canto superior direito, indicando que a data do plano foi modificada.
+5. Após isso um alerta de sucesso irá aparecer no canto superior direito, indicando que a data do plano foi modificada.
 
 ![image](https://user-images.githubusercontent.com/94073830/189204132-b885c894-8ccc-4e76-9ef0-68461ecf1715.png)
 
-
-::: warning
-Para não ter nenhuma surpresa, escreva o plano e salve periodicamente.
-:::
 
 <br>Qualquer dúvida, estaremos aqui. Abraços!
 
