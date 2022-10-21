@@ -1,14 +1,13 @@
 # Conhecendo a Dibbi
 
-Seja bem-vindo(a) à **Dibbi**!
+Seja bem-vindo(a) à **Dibbi Plataforma**!
 
 Seu plano de aula online.
 
-Nossa missão é levar evolução, governança, gestão e eficiência para a área pedagógica, utilizando as ferramentas da nossa plataforma na construção de um ecossistema que possa ajudar os docentes na evolução das atividades do seu dia a dia.
+A Dibbi é uma plataforma com ferramentas para gerenciar o SETOR PEDAGÓGICO da sua escola. Potencializamos a ação da coordenação pedagógica, tornando ágil a atividade do professor e do coordenador na gestão do plano de aula. Isso alivia muito suas cargas de trabalho, além de remover a burocracia e falta de engajamento entre gestão e corpo docente nas atividades do dia-a-dia.
 
 Somos uma plataforma de gerenciamento do setor pedagógico da escola. Nós temos várias funcionalidades para te ajudar.
 
-[[toc]]
 
 <br>Qualquer dúvida, estaremos aqui. Abraços!
 
