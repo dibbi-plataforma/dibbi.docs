@@ -1,15 +1,16 @@
-# Cadastro de Notícias
+# Cadastro de Avisos
 
 Olá, espero que esteja bem! :smiley:
 
 Nesse local você irá documentar as atividades e alinhar o seu time. Para compartilhar as informações pedagógicas da sua escola com os professores, siga os passos:
 
-1. Clique no botão **Adicionar**.
-2. Escreva o título e faça um breve resumo do que se trata esta aviso. Em seguida, adicione a imagem que ficará em destaque.
-3. Digite as informações no campo Conteúdo. Neste local você poderá editar o texto como preferir.
-4. Por último, clique em Salvar. Caso queira adicionar outra notícia, clique em Salvar e Novo.
+1. No menu a esquerda, clique em cadastros e depois em Avisos.
+2. Clique no botão **Adicionar**.
+3. Escreva o título e faça um breve resumo do que se trata esta aviso. Em seguida, adicione a imagem que ficará em destaque.
+4. Digite as informações no campo Conteúdo. Neste local você poderá editar o texto como preferir.
+5. Por último, clique em Salvar. Caso queira adicionar outra notícia, clique em Salvar e Novo.
 
-**Vídeo**: [Cadastro de Notícias](https://user-images.githubusercontent.com/94073830/177827070-9e2ecce0-081b-41c5-9e86-8c5ae468cdee.mp4)
+**Vídeo**: [Cadastro de Avisos](https://user-images.githubusercontent.com/94073830/177827070-9e2ecce0-081b-41c5-9e86-8c5ae468cdee.mp4)
 
 <br>Qualquer dúvida, estaremos aqui. Abraços!
 
