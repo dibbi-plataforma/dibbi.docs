@@ -2,13 +2,14 @@
 
 Olá, espero que esteja bem! :smiley:
 
-O cadastro de matérias permite que você registre na plataforma todas as disciplinas escolares e as turmas na qual elas pertencem. 
+O cadastro de matérias permite que você registre na plataforma todas as disciplinas da escola.
  
 Veja como é fácil cadastrar uma matéria, siga os passos:
 
-1. Clique no botão **Adicionar**.
-2. Na tela seguinte digite o **Nome da Matéria** desejada.
-3. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.
+1. No menu a esquerda, clique em cadastros e depois em matérias.
+2. Clique no botão **Adicionar**.
+3. Na tela seguinte digite o **Nome da Matéria** desejada.
+4. Por último, clique em **Salvar**. Caso queira adicionar outra matéria, clique em **Salvar e Novo**.
 
 ![dibbi-cadastro-materia](https://user-images.githubusercontent.com/94073830/178129912-5e049ad8-20d2-4d75-9b32-89d68928dbf3.gif)
 
