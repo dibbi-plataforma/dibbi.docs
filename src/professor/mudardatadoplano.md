@@ -4,7 +4,7 @@ Olá, espero que esteja bem! :smiley:
 
 Para mudar a data de um plano de aula, siga os passos:
 
-1. No menu lateral, clique em **Planos Anuais** e escolha a turma desejada.
+1. No menu lateral a esquerda, clique em **Planos diários** e escolha a turma desejada.
 2. Na listagem, localize o plano de aula e clique no botão de **edição**.
 
 ![image](https://user-images.githubusercontent.com/94073830/189203425-d7075f54-7a22-4171-a511-8ccb2422311f.png)
