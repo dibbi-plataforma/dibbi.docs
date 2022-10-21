@@ -8,10 +8,11 @@ Aqui os professores ficarão por dentro de todos os compromissos, podendo visual
 
 Para realizar o cadastro de um evento, siga os passos:
 
-1. Escolha o nível de ensino desejado e, em seguida, clique em Adicionar.
-2. Selecione a categoria, insira o título do evento e, em seguida, insira a data inicial e a data final.
-3. Faça uma descrição do evento que você deseja salvar.
-4. Por último, clique em Adicionar Evento.
+1. No menu a esquerda, clique em calendário.
+2. Escolha o nível de ensino desejado e, em seguida, clique em Adicionar.
+3. Selecione a categoria, insira o título do evento e, em seguida, insira a data inicial e a data final.
+4. Faça uma breve descrição do evento que você deseja salvar.
+5. Por último, clique no botão Adicionar Evento.
 
 ::: warning
 Você pode criar eventos de um ou vários dias. Também é possível adicionar vários eventos no mesmo dia.
