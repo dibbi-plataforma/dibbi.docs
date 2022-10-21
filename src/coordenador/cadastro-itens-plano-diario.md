@@ -4,8 +4,9 @@ Olá, espero que esteja bem! :smiley:
 
 Esse é o momento mais importante na configuração da Dibbi. Aqui você vai realizar o cadastro da matriz pedagógica com os itens do plano a serem preenchidos pelo professor. Para realizar o cadastro dos itens do plano, siga os passos:
 
-1. No menu a esquerda, clique em configurações e depois em planos de aula diário.
-2. Clique no botão **Adicionar**.
+1. No menu lateral, clique em **configurações**.
+2. Clique em **Itens do plano diário** e uma nova tela irá abrir.
+3. Clique no botão **Adicionar**.
 3. Escreva o nome do item que será preenchido pelo **Professor** no **Plano de Aula**.
     - **Exemplo**: Desenvolvimento, conteúdo, objetivo etc.;
 4. Utilize o campo **Descrição**, caso precise fazer uma orientação sobre o que se trata o item que você está criando.
