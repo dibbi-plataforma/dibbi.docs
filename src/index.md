@@ -7,7 +7,7 @@ Nosso horário de atendimento é de Segunda-feira à Sexta-feira das **08h às 1
 
 Além da nossa Central de Ajuda, disponibilizamos vários canais de comunicação para contato.
 Você pode falar com a gente através do **Chat**. Basta clicar no balãozinho de conversa no rodapé
-da Dibbi, escolher uma opção, preencher os seus dados e alguém do nosso time irá te atender.
+da Dibbi, escolher uma opção, preencher os seus dados e alguém da nossa equipe irá te atender.
 
 No final é importante você avaliar o nosso atendimento e deixar um comentário.
 
