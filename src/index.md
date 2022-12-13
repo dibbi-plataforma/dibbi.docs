@@ -1,7 +1,7 @@
 # Olá Dibber!
 
 Se você está enfrentando problemas técnicos ou não conseguiu encontrar a resposta para sua
-solicitação na Central de Ajuda, o nosso suporte está aqui para te ajudar.
+solicitação na Central de Ajuda, o nosso suporte está aqui para te auxiliar.
 
 Nosso horário de atendimento é de Segunda-feira à Sexta-feira das **08h às 17h.**
 
